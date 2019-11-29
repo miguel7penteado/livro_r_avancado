@@ -54,7 +54,7 @@ rm crc/diagrams/*.graffle
 zip -r adv-r-source.zip crc
 ```
 
-## Code of conduct
+## Codigo de Conduta
 
 Por favor observe que **R Avançado** é disponibilizado um [Código de conduta do contribuidor](CODE_OF_CONDUCT.md).
 Contribuindo com este projeto, você aceita seguir estes termos.
