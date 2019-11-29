@@ -1,5 +1,7 @@
 #  R Avançado
 
+Original: [https://adv-r.hadley.nz/](https://adv-r.hadley.nz/)
+
 [![Status de Construção](https://travis-ci.org/hadley/adv-r.svg?branch=master)](https://travis-ci.org/hadley/adv-r)
 
 Este é o código por trás do livro [Advanced R](http://adv-r.hadley.nz)
